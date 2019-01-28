@@ -1,3 +1,5 @@
+solution for sleepingBarber problem 
+
 I used a cmakelist file to enable my code to cross platform. If you want to open it through the command window, you need to change the file direction and build the execution file.
 
 mkdir build
